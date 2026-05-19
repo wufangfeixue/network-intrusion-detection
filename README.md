@@ -1,0 +1,2 @@
+# Network-Intrusion-Detection
+本项目使用随机森林算法对CICIDS2017网络流量数据进行训练，实现对正常流量和多种网络攻击类型的自动识别与分类。
