@@ -1,0 +1,38 @@
+Friday-WorkingHours-Afternoon-DDos.pcap_ISCX.csv: 225745 rows
+  DDoS: 128027
+  BENIGN: 97718
+
+Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv: 286467 rows
+  PortScan: 158930
+  BENIGN: 127537
+
+Friday-WorkingHours-Morning.pcap_ISCX.csv: 191033 rows
+  BENIGN: 189067
+  Bot: 1966
+
+Monday-WorkingHours.pcap_ISCX.csv: 529918 rows
+  BENIGN: 529918
+
+Thursday-WorkingHours-Afternoon-Infilteration.pcap_ISCX.csv: 288602 rows
+  BENIGN: 288566
+  Infiltration: 36
+
+Thursday-WorkingHours-Morning-WebAttacks.pcap_ISCX.csv: 170366 rows
+  BENIGN: 168186
+  Web Attack � Brute Force: 1507
+  Web Attack � XSS: 652
+  Web Attack � Sql Injection: 21
+
+Tuesday-WorkingHours.pcap_ISCX.csv: 445909 rows
+  BENIGN: 432074
+  FTP-Patator: 7938
+  SSH-Patator: 5897
+
+Wednesday-workingHours.pcap_ISCX.csv: 692703 rows
+  BENIGN: 440031
+  DoS Hulk: 231073
+  DoS GoldenEye: 10293
+  DoS slowloris: 5796
+  DoS Slowhttptest: 5499
+  Heartbleed: 11
+
